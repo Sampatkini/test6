@@ -1,0 +1,34 @@
+.container {
+    padding: 40px 40px;
+    background: #d3d3d3;
+    background-image: linear-gradient(
+      rgba(87, 87, 255, 0.5),
+      rgba(235, 245, 94, 0.993)
+    );
+  }
+  .full-page {
+    padding: 40px;
+  }
+  h1 {
+    font-size: 50px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .current {
+    font-size: 20px;
+  }
+  .days {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .temp {
+    font-size: 15px;
+  }
+  .enter {
+    padding: 10px;
+  }
+  
+  .maintemperature {
+    font-size: 80px;
+  }
+  
+  
